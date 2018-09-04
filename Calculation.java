@@ -20,6 +20,14 @@ public class Calculation
              z=x+y;
              System.out.println("add"+z);
       }
+      void mul(int x,int y)
+      {
+		int z;
+		z=x*y;
+		System.out.println("multiply " +z);
+
+
+      }
 
 
 	//multiplication
@@ -59,8 +67,12 @@ public class Calculation
             c.sub(200,50);
 	    c.add(10,30);
 	    c.mul(5,6);
+
 	    c.div(10,2);
 	    c.mod(19,20);
+
+          c.div(10,2);
+
        }
 }
 
