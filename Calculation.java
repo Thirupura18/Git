@@ -15,14 +15,6 @@ public class Calculation
              int z;
              z=x+y;
              System.out.println("add"+z);
-      }	
-
-      void mul(int x,int y)
-      {
-	int z;
-	z=x*y;
-	System.out.println("multiply"+z);
-
       }
 
       public static void main(String args[])
