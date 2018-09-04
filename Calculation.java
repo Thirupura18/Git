@@ -1,5 +1,6 @@
 
 // Subtraction and Addition Program
+//multiplication and divoision
 public class Calculation
 {
    void sub(int x,int y)
@@ -54,7 +55,7 @@ public class Calculation
           c.div(10,2);
        }
 }
-//end of the program
+
 
 
 
